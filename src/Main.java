@@ -5,7 +5,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Test list = new Test();
+        LinkList list = new LinkList();
        // list.addFirst(20);
        // list.addLast(30);
         //list.addLast(40);

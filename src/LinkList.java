@@ -1,6 +1,6 @@
 import java.util.NoSuchElementException;
 
-public class Test {
+public class LinkList {
 
     Node first;
     Node last;
